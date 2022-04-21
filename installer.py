@@ -12,9 +12,9 @@ def clear():
 def menu():
     clear()
     print "\tTools by \33[31;1mRen7\33[0;00m\n"
-    print "\tgw nggak recode ya kontl"
+    print "\tGithub : RenSydicate"
     print "\n1.install nmap"
-    print "\n2.install wafw00f"
+    print "\n2.instal wafw00f"
     print "\n3.install python"
     print "\n4.install python2"
     print "\n5.install debian" 
